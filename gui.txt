@@ -1,9 +1,12 @@
 Well hello there
+
 i Am a gui app
 lets do some gui
 
+#include <vector>
 int main(){
 
+std::vector<int> manaa = {1,23,4};
 return 0;
 }
 
